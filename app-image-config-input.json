@@ -1,0 +1,16 @@
+{
+    "AppImageConfigName": "voicespricingrecommendations-image-config",
+    "KernelGatewayImageConfig": {
+        "KernelSpecs": [
+            {
+                "Name": "python3",
+                "DisplayName": "Python 3"
+            }
+        ],
+        "FileSystemConfig": {
+            "MountPath": "/home/jovyan/work",
+            "DefaultUid": 1000,
+            "DefaultGid": 100
+        }
+    }
+}

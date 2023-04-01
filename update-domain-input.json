@@ -1,0 +1,13 @@
+{
+    "DomainId": "d-dx2cwau9xugb",
+    "DefaultUserSettings": {
+        "KernelGatewayAppSettings": {
+            "CustomImages": [
+                {
+                    "ImageName": "voicespricingrecommendations",
+                    "AppImageConfigName": "voicespricingrecommendations-image-config"
+                }
+            ]
+        }
+    }
+}

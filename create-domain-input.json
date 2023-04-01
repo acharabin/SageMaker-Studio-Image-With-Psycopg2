@@ -1,0 +1,19 @@
+{
+    "DomainName": "default-1656000827331",
+    "VpcId": "vpc-05124b3af8509dfee",
+    "SubnetIds": [
+        "<subnet-ids>"
+    ],
+    "DefaultUserSettings": {
+        "ExecutionRole": "arn:aws:iam::830761672223:role/service-role/AmazonSageMaker-ExecutionRole-20210913T152368",
+        "KernelGatewayAppSettings": {
+            "CustomImages": [
+                {
+                    "ImageName": "julia-datascience",
+                    "AppImageConfigName": "julia-datascience-image-config"
+                }
+            ]
+        }
+    },
+    "AuthMode": "IAM"
+}
